@@ -28,18 +28,18 @@ This project involves the following key steps:
 
 ## Dataset
 
-```bash
+
 https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
 ## Navigate to the project directory
 
-```bash
+
 cd plant-disease-classification
 
 
 ## Install the required dependencies
 
-```bash
+
 pip install -r requirements.txt
 
 
