@@ -2,6 +2,7 @@
 
 This project is aimed at building a deep learning model for plant disease classification using TensorFlow and Keras. The model is trained on the PlantVillage dataset, which contains images of various plant diseases and healthy plants. The goal is to develop a model that can accurately classify plant images into different disease categories, helping farmers identify and treat diseased plants promptly.
 
+
 ## Overview
 
 This project involves the following key steps:
@@ -18,6 +19,8 @@ This project involves the following key steps:
 
 6. **Model Saving:** Saving the trained model for future use or deployment.
 
+
+
 ## Usage
 
 1. **Clone the repository:**
@@ -28,17 +31,15 @@ This project involves the following key steps:
 
 ## Dataset
 
-
 https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
-## Navigate to the project directory
 
+## Navigate to the project directory
 
 cd plant-disease-classification
 
 
 ## Install the required dependencies
-
 
 pip install -r requirements.txt
 
