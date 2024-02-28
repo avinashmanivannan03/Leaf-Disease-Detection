@@ -28,15 +28,18 @@ This project involves the following key steps:
 
 ## Dataset
 
+```bash
 https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
 ## Navigate to the project directory
 
+```bash
 cd plant-disease-classification
 
 
 ## Install the required dependencies
 
+```bash
 pip install -r requirements.txt
 
 
@@ -53,4 +56,5 @@ This project was developed by Avinash M.
 ## Pre-Trained Model
 
 {model_version_1} - Trained Model
+```bash
 (https://github.com/avinashmanivannan03/Leaf-Disease-Detection/tree/main/%7Bmodel_version_1%7D)
