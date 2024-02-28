@@ -23,9 +23,28 @@ This project involves the following key steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/avinashmanivannan03/plant-disease-classification.git
+   git clone https://github.com/avinashmanivannan03/Leaf-disease-classification.git
 
 
 ## Dataset
 
 https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
+## Navigate to the project directory
+
+cd plant-disease-classification
+
+
+## Install the required dependencies
+
+pip install -r requirements.txt
+
+
+## Result
+
+The trained model achieves an accuracy of about 90% on the test dataset, demonstrating its effectiveness in classifying plant diseases (Only Potato).
+
+
+## Credits
+
+This project was developed by Avinash M.
