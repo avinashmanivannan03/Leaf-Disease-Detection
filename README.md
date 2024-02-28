@@ -53,3 +53,4 @@ This project was developed by Avinash M.
 ## Pre-Trained Model
 
 {model_version_1} - Trained Model
+(https://github.com/avinashmanivannan03/Leaf-Disease-Detection/tree/main/%7Bmodel_version_1%7D)
