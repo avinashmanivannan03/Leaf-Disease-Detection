@@ -24,3 +24,8 @@ This project involves the following key steps:
 
    ```bash
    git clone https://github.com/avinashmanivannan03/plant-disease-classification.git
+
+
+## Dataset
+
+https://www.kaggle.com/datasets/arjuntejaswi/plant-village
