@@ -48,3 +48,8 @@ The trained model achieves an accuracy of about 90% on the test dataset, demonst
 ## Credits
 
 This project was developed by Avinash M.
+
+
+## Pre-Trained Model
+
+{model_version_1} - Trained Model
